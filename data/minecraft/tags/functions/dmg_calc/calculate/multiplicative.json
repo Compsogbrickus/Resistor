@@ -1,0 +1,6 @@
+{
+    "values": [
+        "dmg_calc:calculate/protection/apply",
+        "dmg_calc:calculate/resistance/apply"
+    ]
+}

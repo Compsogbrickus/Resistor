@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#dmg_calc/damage_tag/revoke/fall",
+        "#dmg_calc/damage_tag/revoke/fire",
+        "#dmg_calc/damage_tag/revoke/magic",
+        "#dmg_calc/damage_tag/revoke/projectile",
+        "#dmg_calc/damage_tag/revoke/blast"
+    ]
+}

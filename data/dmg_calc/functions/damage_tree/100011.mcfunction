@@ -1,0 +1,1 @@
+damage @s 36 dmg_calc:final_damage

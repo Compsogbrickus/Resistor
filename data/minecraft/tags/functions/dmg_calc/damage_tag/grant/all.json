@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#dmg_calc/damage_tag/grant/fall",
+        "#dmg_calc/damage_tag/grant/fire",
+        "#dmg_calc/damage_tag/grant/magic",
+        "#dmg_calc/damage_tag/grant/projectile",
+        "#dmg_calc/damage_tag/grant/blast"
+    ]
+}

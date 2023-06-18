@@ -1,0 +1,1 @@
+execute unless entity @s[scores={calc.res.duration=0}] run function dmg_calc:calculate/resistance/apply

@@ -1,0 +1,6 @@
+{
+    "values": [
+        "dmg_calc:damage_tag/grant/magic/from_poison",
+        "dmg_calc:damage_tag/grant/magic/from_wither"
+    ]
+}

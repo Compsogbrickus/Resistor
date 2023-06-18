@@ -1,0 +1,1 @@
+execute if entity @s[tag=!calc.dmg_magic] if predicate dmg_calc:effect/poison run tag @s add calc.dmg_magic

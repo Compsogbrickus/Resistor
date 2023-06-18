@@ -1,0 +1,1 @@
+execute if entity @s[tag=!calc.dmg_fire] unless predicate dmg_calc:effect/fire_resistance if block ~ ~ ~ #fire run tag @s add calc.dmg_fire

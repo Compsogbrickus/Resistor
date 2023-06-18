@@ -1,0 +1,8 @@
+{
+    "values": [
+        "dmg_calc:damage_tag/grant/fire/from_lava",
+        "dmg_calc:damage_tag/grant/fire/from_fires",
+        "dmg_calc:damage_tag/grant/fire/from_magma",
+        "dmg_calc:damage_tag/grant/fire/from_flames"
+    ]
+}
